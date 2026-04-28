@@ -2,6 +2,8 @@
 
 Product photography and key media for the SwitchBot product line. Each top-level folder is one product (slugified, lowercase, hyphenated). Inside each product you'll typically find subfolders for `White BG/`, `Lifestyle and User Cases/`, `matter images/` (Amazon A+ feature shots), and sometimes `Video/`. Designed for selective import by an AI agent.
 
+> **Note for the Claude designer:** any video in this repo has been re-encoded to fit GitHub's 100 MB per-file limit (H.264 1080p, 720p where 1080p didn't fit). **Higher-quality originals are available on demand** — ask the human and they'll provide the uncompressed master.
+
 
 **Totals:** 20 top-level folder(s), 466 images, 24 videos, 0 PDFs, 2.9 GB total.
 
